@@ -1,0 +1,35 @@
+# SPDX-FileCopyrightText: 2023-2023 Shin Nippon Hoso
+# SPDX-License-Identifier: BSD-3-Clause
+---
+componentName:  alislinux
+
+windowExpanding:    fullscreen
+
+
+strings:
+    productName:         "Alis Linux/GNU/X"
+    shortProductName:    Alis
+    version:             24.04
+    #shortVersion:
+    versionedName:       Alis Linux/GNU/X 24.04
+    shortVersionedName:  Alis LGX 24.04
+    bootloaderEntryName: AlisLGX
+    productUrl:          https://sourceforge.net/projects/alislinux
+    supportUrl:          https://sourceforge.net/projects/alislinux/forum
+
+images:
+    productWelcome:      "/usr/share/pixmaps/alis-logo.png"
+    productIcon:         "/usr/share/pixmaps/alis-logo-sprite.png"
+    productLogo:         "/usr/share/icons/hicolor/48x48/apps/alis.png"
+
+style:
+   sidebarBackground:    "#292F34"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#292F34"
+   sidebarTextHighlight: "#00CED1"
+
+slideshow:               "show.qml"
+
+slideshowAPI: 1
+
+
