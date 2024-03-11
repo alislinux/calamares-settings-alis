@@ -1,0 +1,11 @@
+[Unit]
+Description = alislgx bootmnt dir
+After = network.target
+Conflicts = shutdown.target
+
+[Service]
+ExecStart = /bin/bash -c "chvt 2 && calamares -platform linuxfb"
+Type = oneshot
+
+[Install]
+WantedBy = multi-user.target
