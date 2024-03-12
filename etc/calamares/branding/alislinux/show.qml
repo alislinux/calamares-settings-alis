@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2023-2024 Naka-mura Jukebox
+// SPDX-License-Identifier: BSD-3-Clause
+
 import QtQuick 2.0;
 import calamares.slideshow 1.0;
 
