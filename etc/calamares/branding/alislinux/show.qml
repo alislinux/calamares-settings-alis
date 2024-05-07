@@ -1,4 +1,4 @@
-// SPDX-FileCopyrightText: 2023-2024 Naka-mura Jukebox
+// SPDX-FileCopyrightText: 2023-2024 Nakamura Musical Industries
 // SPDX-License-Identifier: BSD-3-Clause
 
 import QtQuick 2.0;

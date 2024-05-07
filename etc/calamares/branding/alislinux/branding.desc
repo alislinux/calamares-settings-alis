@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2023-2024 Naka-mura Jukebox
+# SPDX-FileCopyrightText: 2023-2024 Nakamura Musical Industries
 # SPDX-License-Identifier: BSD-3-Clause
 ---
 componentName:  alislinux
@@ -9,10 +9,10 @@ windowExpanding:    fullscreen
 strings:
     productName:         "Alis Linux/GNU/X"
     shortProductName:    Alis
-    version:             24.04
+    version:             24.05
     #shortVersion:
-    versionedName:       Alis Linux/GNU/X 24.04
-    shortVersionedName:  Alis LGX 24.04
+    versionedName:       Alis Linux/GNU/X 24.05
+    shortVersionedName:  Alis LGX 24.05
     bootloaderEntryName: Alis
     productUrl:          https://sourceforge.net/projects/alislinux
     supportUrl:          https://sourceforge.net/projects/alislinux/forum

@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# SPDX-FileCopyrightText: 2023-2024 Nakamura Musical Industries
 
 STR=$(ls -l /dev/disk/by-label|grep ALIS_|sed s,../,,g)
 ARRAY=(${STR})
