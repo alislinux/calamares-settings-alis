@@ -9,10 +9,10 @@ windowExpanding:    fullscreen
 strings:
     productName:         "Alis Linux/GNU/X"
     shortProductName:    Alis
-    version:             24.05
+    version:             24.07
     #shortVersion:
-    versionedName:       Alis Linux/GNU/X 24.05
-    shortVersionedName:  Alis LGX 24.05
+    versionedName:       Alis Linux/GNU/X 24.07
+    shortVersionedName:  Alis LGX 24.07
     bootloaderEntryName: Alis
     productUrl:          https://sourceforge.net/projects/alislinux
     supportUrl:          https://sourceforge.net/projects/alislinux/forum
